@@ -1,0 +1,2 @@
+# delog
+falla linux
